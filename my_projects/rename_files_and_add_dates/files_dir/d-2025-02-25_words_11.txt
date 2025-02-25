@@ -1,0 +1,2 @@
+Here is a snapshot of
+what the files folder should contain
