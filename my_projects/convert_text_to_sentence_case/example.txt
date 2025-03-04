@@ -1,0 +1,1 @@
+For this project, you need to prepare some files first. Please download the text files from the resources attached to this lecture and place the files in a folder named files. Place the files folder in the same directory with your Python script. Here is a snapshot of what the files folder should contain
